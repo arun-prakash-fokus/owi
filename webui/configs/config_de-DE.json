@@ -1,0 +1,57 @@
+{
+    "version": 0,
+    "ui": {
+        "default_locale": "de-DE",
+        "prompt_suggestions": [
+            {
+                "title": [
+                    "Hilf mir beim Lernen",
+                    "Vokabeln für eine College-Aufnahmeprüfung"
+                ],
+                "content": "Hilf mir, Vokabeln zu lernen: Schreibe mir einen Satz, den ich ausfüllen soll, und ich versuche, die richtige Option zu wählen"
+            },
+            {
+                "title": [
+                    "Gib mir Ideen",
+                    "was ich mit den Kunstwerken meiner Kinder machen kann"
+                ],
+                "content": "Was sind 5 kreative Dinge, die ich mit den Kunstwerken meiner Kinder machen könnte? Ich möchte sie nicht wegwerfen, aber es ist auch so viel Unordnung."
+            },
+            {
+                "title": [
+                    "Nenne mir einen lustigen Fakt",
+                    "über das Römische Reich"
+                ],
+                "content": "Nenne mir einen zufälligen lustigen Fakt über das Römische Reich"
+            },
+            {
+                "title": [
+                    "Zeig mir einen Codeschnipsel",
+                    "des Sticky Headers einer Website"
+                ],
+                "content": "Zeigen Sie mir einen Codeschnipsel für den Sticky Header einer Website in CSS und JavaScript."
+            },
+            {
+                "title": [
+                    "Erklären Sie den Optionshandel",
+                    "wenn ich mit dem Kauf und Verkauf von Aktien vertraut bin"
+                ],
+                "content": "Erklären Sie den Optionshandel in einfachen Worten, wenn ich mit dem Kauf und Verkauf von Aktien vertraut bin."
+            },
+            {
+                "title": [
+                    "Überwinde die Prokrastination",
+                    "Gib mir Tipps"
+                ],
+                "content": "Könnten Sie mich zunächst fragen, wann ich am meisten prokrastiniere, und mir dann einige Vorschläge zur Überwindung dieser Situation machen?"
+            },
+            {
+                "title": [
+                    "Grammatikprüfung",
+                    "umschreiben für bessere Lesbarkeit"
+                ],
+                "content": "Überprüfen Sie den folgenden Satz auf Grammatik und Klarheit: \"[Satz]\". Schreiben Sie ihn um, damit er besser lesbar ist, aber seine ursprüngliche Bedeutung beibehält."
+            }
+        ]
+    }
+}
